@@ -1,5 +1,5 @@
 # QuizByte By QUANTUM CODERS:-
-This is a Java based platform to offer timed quizzes on Java programming, providing users with performance reports and feedback.
+This is a Java based platform to offer timed quizzes on Java programming, providing users with performance reports and feedback.It supports full CRUD operations with file-based data storage. Built with layered architecture and input validation, it's ideal for learning core Java and file handling. Simple, lightweight, and easy to run.
                      TEAM MEMBERS :- SWATI SINGH (24SCSE1180411) and SHREYA SINGH (24SCSE1180414).
 
  Features Implemented (Review 1) Add Task View Tasks Delete Task Update Task File I/O using data.txt Layered architecture
