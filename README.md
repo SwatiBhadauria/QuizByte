@@ -7,4 +7,4 @@ This is a Java based platform to offer timed quizzes on Java programming, provid
 📁 File Structure Main.java – Entry point and menu Task.java – Task model TaskService.java – CRUD logic FileHandler.java – File operations Validation.java – Input validation data.txt – Stores task data (created automatically)
 
 
-🚀 How to Run Compile all .java files Run Main.java Follow menu instructions in console
+🚀 How to Run Compile all .java files Run Main.java Follow menu instructions in console.
