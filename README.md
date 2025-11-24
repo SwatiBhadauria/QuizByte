@@ -11,8 +11,7 @@ Simple data structures
 Practical application design
 
 👥 Team Members:-
-Name
-Swati Singh	-Team Leader(24SCSE1180411)
+Swati Singh	-Team Leader(24SCSE1180411),
 Shreya Singh -Member(24SCSE1180414)
 ✨ Features
 👤 User Features:-
