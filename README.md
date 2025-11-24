@@ -1,10 +1,39 @@
 # QuizByte By QUANTUM CODERS:-
-This is a Java based platform to offer timed quizzes on Java programming, providing users with performance reports and feedback.It supports full CRUD operations with file-based data storage. Built with layered architecture and input validation, it's ideal for learning core Java and file handling. Simple, lightweight, and easy to run.
-                     TEAM MEMBERS :- SWATI SINGH (24SCSE1180411) and SHREYA SINGH (24SCSE1180414).
+🎯 QuizByte – Java GUI Quiz Application.
+📌 Overview:-
+QuizByte is a clean, functional, and beginner-friendly Java Swing quiz application designed for academic evaluation.
+Users can take multiple-choice quizzes, while admins can add custom questions directly from the GUI.
 
- Features Implemented (Review 1) Add Task View Tasks Delete Task Update Task File I/O using data.txt Layered architecture
+This project focuses on:-
+Java OOP principles
+Event-driven GUI programming
+Simple data structures
+Practical application design
 
-📁 File Structure Main.java – Entry point and menu Task.java – Task model TaskService.java – CRUD logic FileHandler.java – File operations Validation.java – Input validation data.txt – Stores task data (created automatically)
+👥 Team Members:-
+Name	           Role
+Swati Singh	     Team Leader
+Shreya Singh	   Member
+✨ Features
+👤 User Features:-
+Enter name to start quiz
+Clean MCQ interface
+One question per page
+Instant score display
 
+🔐 Admin Features:-
+Admin-only access with password
+Add new questions during runtime
+Inputs for question & all options
 
-🚀 How to Run Compile all .java files Run Main.java Follow menu instructions in console.
+🎨 Interface:-
+Java Swing–based
+Lightweight & responsive
+Simple navigation flow
+
+🛠️ Tech Stack:-
+Component	Technology
+Language	Java 17
+GUI Framework	Swing
+Paradigm	Object-Oriented Programming
+Data Structure	ArrayList<Question>.
