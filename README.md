@@ -11,9 +11,9 @@ Simple data structures
 Practical application design
 
 👥 Team Members:-
-Name	           Role
-Swati Singh	     Team Leader
-Shreya Singh	   Member
+Name
+Swati Singh	-Team Leader(24SCSE1180411)
+Shreya Singh -Member(24SCSE1180414)
 ✨ Features
 👤 User Features:-
 Enter name to start quiz
